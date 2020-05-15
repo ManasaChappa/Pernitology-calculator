@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<!-- Created by Neelima Ganta ID :700693885 
+			Manasa Chappa ID : 700693285-->
+	<head>
+		<meta charset="utf-8">
+		<title>Group 1 Project</title>
+	</head>
+	<body>
+		<h1>Keto Diet 7-Day Meal Plan</h1>
+		<p>
+			Most people can consume up to 50g total carbohydrates per day and maintain ketosis. This sample 7-day keto diet plan, with an average of 20.
+			5g net carbs per day, will show you how to eat right, not less, with Atkins keto while still enjoying a variety of satisfying foods.
+		</p>
+		
+		<h3>Day 1: Monday</h3>
+			<p>Total net carbs: 20.7g</p>
+			<ul>
+			  <li>Breakfast (4.6g net carbs): Eggs Scrambled with Sautéed Onions and Cheddar Cheese</li>
+			  <li>Snack (2g net carbs): Atkins Peanut Butter Fudge Crisp Bar</li>
+			  <li>Lunch (5.8g net carbs): 6 oz deli ham over 2 cups mixed greens with ½ Hass avocado, 5 large black olives,
+				½ cup sliced cucumbers, and 2 Tbsp blue cheese dressing
+			  </li>
+			  <li>Snack (4.5g net carbs): 3/4 medium zucchini cut into sticks and 2 oz provolone cheese</li>
+			  <li>Dinner (3.8g net carbs): Baked Catfish with Broccoli and Herb-Butter Blend</li>
+			</ul>  
+			
+			<p>
+				Keto tip of the day: Low carb diets like Atkins keto have a diuretic effect, so make sure you’re drinking at least 6 to 8 glasses 
+				of water each day. Not consuming enough water—especially when starting a new low carb diet—can lead to constipation, dizziness, 
+				and sugar/carb cravings. Also make sure you add extra salt to your diet in order to make sure you’re getting enough electrolytes. 
+				Try sipping on full-sodium broth or adding a little extra salt to your food.
+			</p>
+		<h3>Day 2: Tuesday</h3>
+			<p>
+				Total net carbs: 20.6g 
+			</p>
+			<ul>
+			  <li>Breakfast (5g net carbs): Atkins Frozen Farmhouse-Style Sausage Scramble</li>
+			  <li>Snack (4.4g net carbs): 1 cup sliced red bell pepper with 2 Tbsp ranch dressing</li>
+			  <li>Lunch (5.8g net carbs): Bacon-Cheddar Cheese Soup</li>
+			  <li>Snack (2.2g net carbs): 1 stalk celery with 2 Tbsp cream cheese</li>
+			  <li>Dinner (3.2g net carbs): 7 oz bone-in pork chop with Cauliflower-Cheddar Mash</li>
+			</ul>  
+		
+		<p>
+			Keto tip of the day: Get moving! Exercising regularly can help you achieve ketosis by aiding your body in using up its excess glucose 
+			before storing as glycogen. It’s normal to feel a bit sluggish when starting a keto diet, so if you’re new to the low carb lifestyle, 
+			stay active with low-intensity movement like yoga and walking. When you’re feeling more energized, add in some high-intensity exercise a few days a week. 
+		</p>
+		<h3>Day 3: Wednesday</h3>
+			<p>
+				Total net carbs: 19.7g
+			</p>
+			<ul>
+			  <li>Breakfast (2.9g net carbs): Spinach and Swiss Cheese Omelet</li>
+			  <li>Snack (1g net carbs): Atkins Strawberry Shake</li>
+			  <li>Lunch (6g net carbs): Grilled chicken over baby spinach, tomato, and avocado salad</li>
+			  <li>snack: 1 bowl of sliced cucumbers</li>
+			  <li>Snack (2.2g net carbs): 2 oz ham, 2 Tbsp cream cheese, and 2 dill pickle spears</li>
+			  <li>Dinner (7.6g net carbs): Beef Sauteed with Vegetables Over Romaine</li>
+			</ul> 
+
+			<p>
+				Keto tip of the day: If you are new to a low carb lifestyle, you might start to come down with what’s known as the keto flu. A term coined by the keto community, 
+				this is a temporary side effect experienced by some people when they start the keto diet. If you are experiencing headaches, weakness, and poor concentration,
+				don’t throw in the towel! Electrolytes and water are quickly depleted when you first start a keto diet, so make sure you are drinking plenty of water and 
+				consuming a little extra sodium and potassium. It also helps to get adequate sleep and make sure you are eating plenty of healthy fats.
+			</p>
+			
+		<h3>Day 4: Thursday</h3>
+			<p>
+				Total net carbs: 19.3g 
+			</p>
+			<ul>
+			  <li>Breakfast (4.7g net carbs): Cheese and Spinach Omelet Topped with Avocado and Salsa</li>
+			  <li>Snack (1g net carbs): Atkins French Vanilla Shake</li>
+			  <li>Lunch (6g net carbs): Atkins Frozen Crustless Chicken Pot Pie</li>
+			  <li>Snack (2.2g net carbs): ½ medium zucchini cut into sticks and 1 oz monterey jack cheese</li>
+			  <li>Dinner (5.4g net carbs): 5 oz hamburger topped with 1 oz pepper jack cheese,
+			  1 small tomato, ½ Hass avocado, and 2 romaine lettuce leaves/li>
+			</ul>  
+			
+			<p>
+				Keto tip of the day: Craving something sweet? Whip up a decadent dessert with this easy recipe for Chocolate Pecan Pie Bites suitable for all Atkins phases. 
+				Note that one serving of this recipe will add 1.8g net carbs and 7.1g of fat to today’s menu. Browse Atkins extensive recipe database for more low carb dessert recipes.
+			</p>
+			
+		<h3> Day 5: Friday</h3>
+			<p>Total net carbs: 21.9g</p>
+			<ul>
+			  <li>Breakfast (2.6g net carbs): 2 large eggs, ¼ cup shredded cheddar, and 4 Tbsp Salsa Cruda</li>
+			  <li>Snack (2g net carbs): Atkins Cafe Caramel Shake</li>
+			  <li>Lunch (6.9g net carbs): Atkins Frozen Chili Con Carne with a side of 2 cups mixed greens and 2 Tbsp Italian Dressing</li>
+			  <li>Snack (4.4g net carbs): 1 cup sliced red bell pepper with 2 Tbsp ranch dressing</li>
+			  <li>Dinner (6g net carbs[3] ): Half of a California cobb salad with ranch dressing from California Pizza Kitchen</li>
+			</ul>  
+			
+			<p>
+				Keto tip of the day: It’s the end of the work week, so meet up with your friends or family for dinner! Living low carb doesn’t mean you have to cook every one of your meals. 
+				Stay on track when dining out by asking the restaurant for nutrition information, choosing meat and veggie dishes, 
+				opting out of starchy sides like mashed potatoes, and avoiding sugary condiments like BBQ sauce. And check out these other keto-friendly restaurants!
+			</p>
+				
+		<h3>Day 6: Saturday</h3>
+			<p>Total net carbs: 20.7</p>
+			<ul>
+			  <li>Breakfast (4.9g net carbs): Red Bell Pepper Filled with Creamy Eggs and Spinach</li>
+			  <li>Snack (1g net carbs): Atkins Strawberry Shake</li>
+			  <li>Lunch (2.5g net carbs): Tuna salad with 4 oz tuna, 2 stalks celery, 1 dill pickle spear, 2 Tbsp mayonnaise</li>
+			  <li>Snack (4.5g net carbs): 1 portobello mushroom cap, ¼ cup Salsa Cruda, and 1 oz pepper jack cheese</li>
+			  <li>Dinner (7.8g net carbs): 5 oz Italian sausage, ¼ medium onion sliced, and ½ red bell pepper sliced with a side of 2 cups baby spinach,
+			  ½ cup sliced mushrooms, and 2 Tbsp Blue Cheese Dressing</li>
+			</ul> 
+				
+			<p>
+				Keto tip of the day: If you’re feeling celebratory or are out on the town, enjoy a low carb drink without throwing off your week. 
+				One 3.5 ounce glass of dry red wine has 2.6g net carbs, and 1 ounce of bourbon has 0g net carbs. 
+				However, watch out for hidden carbs in mixers, and remember that these are additional carbs to today’s menu. 
+				You can easily keep track of your daily net carbs with the Atkins app or this guide.
+			</p>
+				
+				
+		<h3>Day 7: Sunday</h3>
+			<p>Total net carbs: 20.8</p>
+			<ul>
+			  <li>Breakfast (2.9g net carbs): Pumpkin Flax Pancakes</li>
+			  <li>Snack (1.7g net carbs): 5 whole snap peas and 2 oz cheddar</li>
+			  <li>Lunch (3.1g net carbs): 6 oz chicken breast over 2 cups Romaine hearts with 5 radishes and 2 Tbsp Creamy Italian Dressing</li>
+			  <li>Snack (3.2g net carbs): 2 stalks celery and 2 Tbsp cream cheese</li>
+			  <li>Dinner (9.9g net carbs): Baked Salmon With Charmoula Over Broccoli</li>
+			</ul>  
+			
+			<p>
+				Keto tip of the day: Head to the supermarket and meal prep for the upcoming week to stay on track with your low carb lifestyle! 
+				Switch things up by making some of your favorite meals with low carb ingredient swaps. And brush up on how to avoid the most common keto mistakes.
+			</p>
+	</body>
+</html>

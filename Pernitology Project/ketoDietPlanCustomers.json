@@ -1,0 +1,17 @@
+{"customers": [{"name": "Ganta Sarojini",  "age": "Age:45",  "zip":"Zip:50265"},
+{"name": "Kadubandi Satyanarayana",  "age": "Age:65 ",  "zip":"Zip:40207"},
+{"name": "Gullipalli HymaVathi",  "age": "Age:41",  "zip":"Zip:30303"},
+{"name": "Ganta Neelima",  "age": "Age:26",  "zip":"Zip:32159"},
+{"name": "Chappa Manasa",  "age": "Age:23",  "zip":"Zip:12533"},
+{"name": "Kadubandi Prasanth",  "age": "Age:32",  "zip":"Zip:49684"},
+{"name": "Kadubandi Pradeep",  "age": "Age:26",  "zip":"Zip:28086"},
+{"name": "Gullipalli Prasanna",  "age": "Age:28",  "zip":"Zip:54880"},
+{"name": "Kodali Prasanna",  "age": "Age:29",  "zip":"Zip:2151"},
+{"name": "Ganta Sowjanya",  "age": "Age:20",  "zip":"Zip:44720"},
+{"name": "Ganta Archana",  "age": "Age:26",  "zip":"Zip:1810"},
+{"name": "Ganta Sai Santhosh",  "age": "Age:24",  "zip":"Zip:34997"},
+{"name": "Ganta Vishnu",  "age": "Age:23",  "zip":"Zip:60015"},
+{"name": "Ganta Tirupathi Rao",  "age": "Age:65", "zip":"Zip:13440"},
+{"name": "Ganta Ravana",  "age": "Age:65",  "zip":"Zip:46514"},
+{"name": "Kadubandi Advik",  "age": "Age:3", "zip":"Zip:60060"}]
+}

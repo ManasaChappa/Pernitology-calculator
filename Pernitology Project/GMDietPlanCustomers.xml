@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!-- Created by Neelima Ganta ID :700693885 
+			Manasa Chappa ID : 700693285-->
+<customers>
+	<customer>
+		<name>Name:Ganta Sarojini</name>
+		<age>Age:45</age>
+	</customer>
+	<customer>
+		<name>Name:Kadubandi Satyanarayana</name>
+		<age>Age:64</age>
+	</customer>
+	<customer>
+		<name>Name:Gullipalli HymaVathi</name>
+		<age>Age:50</age>
+	</customer>
+	<customer>
+		<name>Name:Ganta Neelima</name>
+		<age>Age:26</age>
+	</customer>
+	<customer>
+		<name>Name:Chappa Manasa</name>
+		<age>Age:23</age>
+	</customer>
+	<customer>
+		<name>Name:Kadubandi Prasanth</name>
+		<age>Age:30</age>
+	</customer>
+	<customer>
+		<name>Name:Kadubandi Pradeep</name>
+		<age>Age:32</age>
+	</customer>
+	<customer>
+		<name>Name:Gullipalli Prasanna</name>
+		<age>Age:28</age>
+	</customer>
+	<customer>
+		<name>Name:Kodali Prasanna</name>
+		<age>Age:26</age>
+	</customer>
+	<customer>
+		<name>Name:Ganta Sowjanya</name>
+		<age>Age:32</age>
+	</customer>
+	<customer>
+		<name>Name:Ganta Archana</name>
+		<age>Age:28</age>
+	</customer>
+	<customer>
+		<name>Name:Ganta Sai Santhosh</name>
+		<age>Age:23</age>
+	</customer>
+	<customer>
+		<name>Name:Ganta Vishnu</name>
+		<age>Age:24</age>
+	</customer>
+	<customer>
+		<name>Name:Ganta Tirupathi Rao</name>
+		<age>Age:65</age>
+	</customer>    
+</customers>
